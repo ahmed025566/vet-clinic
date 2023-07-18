@@ -12,3 +12,5 @@ CREATE TABLE animals( id                INT,
                       neutered          BOOLEAN,    
                       weight_kg         FLOAT      
                     );
+-- Add a new column
+ALTER TABLE animals   ADD COLUMN species VARCHAR(100);
