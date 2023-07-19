@@ -202,7 +202,7 @@ Example:
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
- [ ] **[Data-Base-Will-Have-Multiple-Tables]**
+ [ ] **[Data-Base-Will-Have-Visits-Table]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
