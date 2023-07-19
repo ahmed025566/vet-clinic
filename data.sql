@@ -53,3 +53,4 @@ SET owner_id =
         WHEN name IN ('Charmander', 'Squirtle', 'Blossom') THEN 4
         WHEN name IN ('Angemon', 'Boarmon') THEN 5
     END;
+    
