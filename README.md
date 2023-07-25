@@ -64,44 +64,2016 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-## 🚀 Live Demo <a name="live-demo"></a>
-
-
-- [Live Demo Link](will be added later)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 ## 💻 Getting Started <a name="getting-started"></a>
+
+
 
 To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-In order to run this project you need:
+In order to run this project you need :
+Install this:
+Node js
+Visual Studio Code
+Git
+
 
 
 ### Setup
 
 Clone this repository to your desired folder:
+and a open a new terminal on your visual studio code
 
+
+  
 
 ### Install
 
 Install this project with:
+npm install
 
- Usage
+
+
+
+
+### Usage
 
 To run the project, execute the following command:
+npm run start
+
+
+
+
+
 
 
 ### Run tests
+
+To run tests, run the following command:
+npm run test
+
+
+
+
+
 
 
 ### Deployment
 
 You can deploy this project using:
+you can use any service avalaible on internet such as:
 
+Render
+Heroku
+
+I recomend Render since is easy to use
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+## 💻 Getting Started <a name="getting-started"></a>
+
+
+
+To get a local copy up and running, follow these steps.
+
+### Prerequisites
+
+In order to run this project you need :
+Install this:
+Node js
+Visual Studio Code
+Git
+
+
+
+### Setup
+
+Clone this repository to your desired folder:
+and a open a new terminal on your visual studio code
+
+
+  
+
+### Install
+
+Install this project with:
+npm install
+
+
+
+
+
+### Usage
+
+To run the project, execute the following command:
+npm run start
+
+
+
+
+
+
+
+### Run tests
+
+To run tests, run the following command:
+npm run test
+
+
+
+
+
+
+
+### Deployment
+
+You can deploy this project using:
+you can use any service avalaible on internet such as:
+
+Render
+Heroku
+
+I recomend Render since is easy to use
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+## 💻 Getting Started <a name="getting-started"></a>
+
+
+
+To get a local copy up and running, follow these steps.
+
+### Prerequisites
+
+In order to run this project you need :
+Install this:
+Node js
+Visual Studio Code
+Git
+
+
+
+### Setup
+
+Clone this repository to your desired folder:
+and a open a new terminal on your visual studio code
+
+
+  
+
+### Install
+
+Install this project with:
+npm install
+
+
+
+
+
+### Usage
+
+To run the project, execute the following command:
+npm run start
+
+
+
+
+
+
+
+### Run tests
+
+To run tests, run the following command:
+npm run test
+
+
+
+
+
+
+
+### Deployment
+
+You can deploy this project using:
+you can use any service avalaible on internet such as:
+
+Render
+Heroku
+
+I recomend Render since is easy to use
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+## 💻 Getting Started <a name="getting-started"></a>
+
+
+
+To get a local copy up and running, follow these steps.
+
+### Prerequisites
+
+In order to run this project you need :
+Install this:
+Node js
+Visual Studio Code
+Git
+
+
+
+### Setup
+
+Clone this repository to your desired folder:
+and a open a new terminal on your visual studio code
+
+
+  
+
+### Install
+
+Install this project with:
+npm install
+
+
+
+
+
+### Usage
+
+To run the project, execute the following command:
+npm run start
+
+
+
+
+
+
+
+### Run tests
+
+To run tests, run the following command:
+npm run test
+
+
+
+
+
+
+
+### Deployment
+
+You can deploy this project using:
+you can use any service avalaible on internet such as:
+
+Render
+Heroku
+
+I recomend Render since is easy to use
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+## 💻 Getting Started <a name="getting-started"></a>
+
+
+
+To get a local copy up and running, follow these steps.
+
+### Prerequisites
+
+In order to run this project you need :
+Install this:
+Node js
+Visual Studio Code
+Git
+
+
+
+### Setup
+
+Clone this repository to your desired folder:
+and a open a new terminal on your visual studio code
+
+
+  
+
+### Install
+
+Install this project with:
+npm install
+
+
+
+
+
+### Usage
+
+To run the project, execute the following command:
+npm run start
+
+
+
+
+
+
+
+### Run tests
+
+To run tests, run the following command:
+npm run test
+
+
+
+
+
+
+
+### Deployment
+
+You can deploy this project using:
+you can use any service avalaible on internet such as:
+
+Render
+Heroku
+
+I recomend Render since is easy to use
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+## 💻 Getting Started <a name="getting-started"></a>
+
+
+
+To get a local copy up and running, follow these steps.
+
+### Prerequisites
+
+In order to run this project you need :
+Install this:
+Node js
+Visual Studio Code
+Git
+
+
+
+### Setup
+
+Clone this repository to your desired folder:
+and a open a new terminal on your visual studio code
+
+
+  
+
+### Install
+
+Install this project with:
+npm install
+
+
+
+
+
+### Usage
+
+To run the project, execute the following command:
+npm run start
+
+
+
+
+
+
+
+### Run tests
+
+To run tests, run the following command:
+npm run test
+
+
+
+
+
+
+
+### Deployment
+
+You can deploy this project using:
+you can use any service avalaible on internet such as:
+
+Render
+Heroku
+
+I recomend Render since is easy to use
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+## 💻 Getting Started <a name="getting-started"></a>
+
+
+
+To get a local copy up and running, follow these steps.
+
+### Prerequisites
+
+In order to run this project you need :
+Install this:
+Node js
+Visual Studio Code
+Git
+
+
+
+### Setup
+
+Clone this repository to your desired folder:
+and a open a new terminal on your visual studio code
+
+
+  
+
+### Install
+
+Install this project with:
+npm install
+
+
+
+
+
+### Usage
+
+To run the project, execute the following command:
+npm run start
+
+
+
+
+
+
+
+### Run tests
+
+To run tests, run the following command:
+npm run test
+
+
+
+
+
+
+
+### Deployment
+
+You can deploy this project using:
+you can use any service avalaible on internet such as:
+
+Render
+Heroku
+
+I recomend Render since is easy to use
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+## 💻 Getting Started <a name="getting-started"></a>
+
+
+
+To get a local copy up and running, follow these steps.
+
+### Prerequisites
+
+In order to run this project you need :
+Install this:
+Node js
+Visual Studio Code
+Git
+
+
+
+### Setup
+
+Clone this repository to your desired folder:
+and a open a new terminal on your visual studio code
+
+
+  
+
+### Install
+
+Install this project with:
+npm install
+
+
+
+
+
+### Usage
+
+To run the project, execute the following command:
+npm run start
+
+
+
+
+
+
+
+### Run tests
+
+To run tests, run the following command:
+npm run test
+
+
+
+
+
+
+
+### Deployment
+
+You can deploy this project using:
+you can use any service avalaible on internet such as:
+
+Render
+Heroku
+
+I recomend Render since is easy to use
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+## 💻 Getting Started <a name="getting-started"></a>
+
+
+
+To get a local copy up and running, follow these steps.
+
+### Prerequisites
+
+In order to run this project you need :
+Install this:
+Node js
+Visual Studio Code
+Git
+
+
+
+### Setup
+
+Clone this repository to your desired folder:
+and a open a new terminal on your visual studio code
+
+
+  
+
+### Install
+
+Install this project with:
+npm install
+
+
+
+
+
+### Usage
+
+To run the project, execute the following command:
+npm run start
+
+
+
+
+
+
+
+### Run tests
+
+To run tests, run the following command:
+npm run test
+
+
+
+
+
+
+
+### Deployment
+
+You can deploy this project using:
+you can use any service avalaible on internet such as:
+
+Render
+Heroku
+
+I recomend Render since is easy to use
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+## 💻 Getting Started <a name="getting-started"></a>
+
+
+
+To get a local copy up and running, follow these steps.
+
+### Prerequisites
+
+In order to run this project you need :
+Install this:
+Node js
+Visual Studio Code
+Git
+
+
+
+### Setup
+
+Clone this repository to your desired folder:
+and a open a new terminal on your visual studio code
+
+
+  
+
+### Install
+
+Install this project with:
+npm install
+
+
+
+
+
+### Usage
+
+To run the project, execute the following command:
+npm run start
+
+
+
+
+
+
+
+### Run tests
+
+To run tests, run the following command:
+npm run test
+
+
+
+
+
+
+
+### Deployment
+
+You can deploy this project using:
+you can use any service avalaible on internet such as:
+
+Render
+Heroku
+
+I recomend Render since is easy to use
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+## 💻 Getting Started <a name="getting-started"></a>
+
+
+
+To get a local copy up and running, follow these steps.
+
+### Prerequisites
+
+In order to run this project you need :
+Install this:
+Node js
+Visual Studio Code
+Git
+
+
+
+### Setup
+
+Clone this repository to your desired folder:
+and a open a new terminal on your visual studio code
+
+
+  
+
+### Install
+
+Install this project with:
+npm install
+
+
+
+
+
+### Usage
+
+To run the project, execute the following command:
+npm run start
+
+
+
+
+
+
+
+### Run tests
+
+To run tests, run the following command:
+npm run test
+
+
+
+
+
+
+
+### Deployment
+
+You can deploy this project using:
+you can use any service avalaible on internet such as:
+
+Render
+Heroku
+
+I recomend Render since is easy to use
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+## 💻 Getting Started <a name="getting-started"></a>
+
+
+
+To get a local copy up and running, follow these steps.
+
+### Prerequisites
+
+In order to run this project you need :
+Install this:
+Node js
+Visual Studio Code
+Git
+
+
+
+### Setup
+
+Clone this repository to your desired folder:
+and a open a new terminal on your visual studio code
+
+
+  
+
+### Install
+
+Install this project with:
+npm install
+
+
+
+
+
+### Usage
+
+To run the project, execute the following command:
+npm run start
+
+
+
+
+
+
+
+### Run tests
+
+To run tests, run the following command:
+npm run test
+
+
+
+
+
+
+
+### Deployment
+
+You can deploy this project using:
+you can use any service avalaible on internet such as:
+
+Render
+Heroku
+
+I recomend Render since is easy to use
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+## 💻 Getting Started <a name="getting-started"></a>
+
+
+
+To get a local copy up and running, follow these steps.
+
+### Prerequisites
+
+In order to run this project you need :
+Install this:
+Node js
+Visual Studio Code
+Git
+
+
+
+### Setup
+
+Clone this repository to your desired folder:
+and a open a new terminal on your visual studio code
+
+
+  
+
+### Install
+
+Install this project with:
+npm install
+
+
+
+
+
+### Usage
+
+To run the project, execute the following command:
+npm run start
+
+
+
+
+
+
+
+### Run tests
+
+To run tests, run the following command:
+npm run test
+
+
+
+
+
+
+
+### Deployment
+
+You can deploy this project using:
+you can use any service avalaible on internet such as:
+
+Render
+Heroku
+
+I recomend Render since is easy to use
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+## 💻 Getting Started <a name="getting-started"></a>
+
+
+
+To get a local copy up and running, follow these steps.
+
+### Prerequisites
+
+In order to run this project you need :
+Install this:
+Node js
+Visual Studio Code
+Git
+
+
+
+### Setup
+
+Clone this repository to your desired folder:
+and a open a new terminal on your visual studio code
+
+
+  
+
+### Install
+
+Install this project with:
+npm install
+
+
+
+
+
+### Usage
+
+To run the project, execute the following command:
+npm run start
+
+
+
+
+
+
+
+### Run tests
+
+To run tests, run the following command:
+npm run test
+
+
+
+
+
+
+
+### Deployment
+
+You can deploy this project using:
+you can use any service avalaible on internet such as:
+
+Render
+Heroku
+
+I recomend Render since is easy to use
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+## 💻 Getting Started <a name="getting-started"></a>
+
+
+
+To get a local copy up and running, follow these steps.
+
+### Prerequisites
+
+In order to run this project you need :
+Install this:
+Node js
+Visual Studio Code
+Git
+
+
+
+### Setup
+
+Clone this repository to your desired folder:
+and a open a new terminal on your visual studio code
+
+
+  
+
+### Install
+
+Install this project with:
+npm install
+
+
+
+
+
+### Usage
+
+To run the project, execute the following command:
+npm run start
+
+
+
+
+
+
+
+### Run tests
+
+To run tests, run the following command:
+npm run test
+
+
+
+
+
+
+
+### Deployment
+
+You can deploy this project using:
+you can use any service avalaible on internet such as:
+
+Render
+Heroku
+
+I recomend Render since is easy to use
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+## 💻 Getting Started <a name="getting-started"></a>
+
+
+
+To get a local copy up and running, follow these steps.
+
+### Prerequisites
+
+In order to run this project you need :
+Install this:
+Node js
+Visual Studio Code
+Git
+
+
+
+### Setup
+
+Clone this repository to your desired folder:
+and a open a new terminal on your visual studio code
+
+
+  
+
+### Install
+
+Install this project with:
+npm install
+
+
+
+
+
+### Usage
+
+To run the project, execute the following command:
+npm run start
+
+
+
+
+
+
+
+### Run tests
+
+To run tests, run the following command:
+npm run test
+
+
+
+
+
+
+
+### Deployment
+
+You can deploy this project using:
+you can use any service avalaible on internet such as:
+
+Render
+Heroku
+
+I recomend Render since is easy to use
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+## 💻 Getting Started <a name="getting-started"></a>
+
+
+
+To get a local copy up and running, follow these steps.
+
+### Prerequisites
+
+In order to run this project you need :
+Install this:
+Node js
+Visual Studio Code
+Git
+
+
+
+### Setup
+
+Clone this repository to your desired folder:
+and a open a new terminal on your visual studio code
+
+
+  
+
+### Install
+
+Install this project with:
+npm install
+
+
+
+
+
+### Usage
+
+To run the project, execute the following command:
+npm run start
+
+
+
+
+
+
+
+### Run tests
+
+To run tests, run the following command:
+npm run test
+
+
+
+
+
+
+
+### Deployment
+
+You can deploy this project using:
+you can use any service avalaible on internet such as:
+
+Render
+Heroku
+
+I recomend Render since is easy to use
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+## 💻 Getting Started <a name="getting-started"></a>
+
+
+
+To get a local copy up and running, follow these steps.
+
+### Prerequisites
+
+In order to run this project you need :
+Install this:
+Node js
+Visual Studio Code
+Git
+
+
+
+### Setup
+
+Clone this repository to your desired folder:
+and a open a new terminal on your visual studio code
+
+
+  
+
+### Install
+
+Install this project with:
+npm install
+
+
+
+
+
+### Usage
+
+To run the project, execute the following command:
+npm run start
+
+
+
+
+
+
+
+### Run tests
+
+To run tests, run the following command:
+npm run test
+
+
+
+
+
+
+
+### Deployment
+
+You can deploy this project using:
+you can use any service avalaible on internet such as:
+
+Render
+Heroku
+
+I recomend Render since is easy to use
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+## 💻 Getting Started <a name="getting-started"></a>
+
+
+
+To get a local copy up and running, follow these steps.
+
+### Prerequisites
+
+In order to run this project you need :
+Install this:
+Node js
+Visual Studio Code
+Git
+
+
+
+### Setup
+
+Clone this repository to your desired folder:
+and a open a new terminal on your visual studio code
+
+
+  
+
+### Install
+
+Install this project with:
+npm install
+
+
+
+
+
+### Usage
+
+To run the project, execute the following command:
+npm run start
+
+
+
+
+
+
+
+### Run tests
+
+To run tests, run the following command:
+npm run test
+
+
+
+
+
+
+
+### Deployment
+
+You can deploy this project using:
+you can use any service avalaible on internet such as:
+
+Render
+Heroku
+
+I recomend Render since is easy to use
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+## 💻 Getting Started <a name="getting-started"></a>
+
+
+
+To get a local copy up and running, follow these steps.
+
+### Prerequisites
+
+In order to run this project you need :
+Install this:
+Node js
+Visual Studio Code
+Git
+
+
+
+### Setup
+
+Clone this repository to your desired folder:
+and a open a new terminal on your visual studio code
+
+
+  
+
+### Install
+
+Install this project with:
+npm install
+
+
+
+
+
+### Usage
+
+To run the project, execute the following command:
+npm run start
+
+
+
+
+
+
+
+### Run tests
+
+To run tests, run the following command:
+npm run test
+
+
+
+
+
+
+
+### Deployment
+
+You can deploy this project using:
+you can use any service avalaible on internet such as:
+
+Render
+Heroku
+
+I recomend Render since is easy to use
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+## 💻 Getting Started <a name="getting-started"></a>
+
+
+
+To get a local copy up and running, follow these steps.
+
+### Prerequisites
+
+In order to run this project you need :
+Install this:
+Node js
+Visual Studio Code
+Git
+
+
+
+### Setup
+
+Clone this repository to your desired folder:
+and a open a new terminal on your visual studio code
+
+
+  
+
+### Install
+
+Install this project with:
+npm install
+
+
+
+
+
+### Usage
+
+To run the project, execute the following command:
+npm run start
+
+
+
+
+
+
+
+### Run tests
+
+To run tests, run the following command:
+npm run test
+
+
+
+
+
+
+
+### Deployment
+
+You can deploy this project using:
+you can use any service avalaible on internet such as:
+
+Render
+Heroku
+
+I recomend Render since is easy to use
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+## 💻 Getting Started <a name="getting-started"></a>
+
+
+
+To get a local copy up and running, follow these steps.
+
+### Prerequisites
+
+In order to run this project you need :
+Install this:
+Node js
+Visual Studio Code
+Git
+
+
+
+### Setup
+
+Clone this repository to your desired folder:
+and a open a new terminal on your visual studio code
+
+
+  
+
+### Install
+
+Install this project with:
+npm install
+
+
+
+
+
+### Usage
+
+To run the project, execute the following command:
+npm run start
+
+
+
+
+
+
+
+### Run tests
+
+To run tests, run the following command:
+npm run test
+
+
+
+
+
+
+
+### Deployment
+
+You can deploy this project using:
+you can use any service avalaible on internet such as:
+
+Render
+Heroku
+
+I recomend Render since is easy to use
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+## 💻 Getting Started <a name="getting-started"></a>
+
+
+
+To get a local copy up and running, follow these steps.
+
+### Prerequisites
+
+In order to run this project you need :
+Install this:
+Node js
+Visual Studio Code
+Git
+
+
+
+### Setup
+
+Clone this repository to your desired folder:
+and a open a new terminal on your visual studio code
+
+
+  
+
+### Install
+
+Install this project with:
+npm install
+
+
+
+
+
+### Usage
+
+To run the project, execute the following command:
+npm run start
+
+
+
+
+
+
+
+### Run tests
+
+To run tests, run the following command:
+npm run test
+
+
+
+
+
+
+
+### Deployment
+
+You can deploy this project using:
+you can use any service avalaible on internet such as:
+
+Render
+Heroku
+
+I recomend Render since is easy to use
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+## 💻 Getting Started <a name="getting-started"></a>
+
+
+
+To get a local copy up and running, follow these steps.
+
+### Prerequisites
+
+In order to run this project you need :
+Install this:
+Node js
+Visual Studio Code
+Git
+
+
+
+### Setup
+
+Clone this repository to your desired folder:
+and a open a new terminal on your visual studio code
+
+
+  
+
+### Install
+
+Install this project with:
+npm install
+
+
+
+
+
+### Usage
+
+To run the project, execute the following command:
+npm run start
+
+
+
+
+
+
+
+### Run tests
+
+To run tests, run the following command:
+npm run test
+
+
+
+
+
+
+
+### Deployment
+
+You can deploy this project using:
+you can use any service avalaible on internet such as:
+
+Render
+Heroku
+
+I recomend Render since is easy to use
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+## 💻 Getting Started <a name="getting-started"></a>
+
+
+
+To get a local copy up and running, follow these steps.
+
+### Prerequisites
+
+In order to run this project you need :
+Install this:
+Node js
+Visual Studio Code
+Git
+
+
+
+### Setup
+
+Clone this repository to your desired folder:
+and a open a new terminal on your visual studio code
+
+
+  
+
+### Install
+
+Install this project with:
+npm install
+
+
+
+
+
+### Usage
+
+To run the project, execute the following command:
+npm run start
+
+
+
+
+
+
+
+### Run tests
+
+To run tests, run the following command:
+npm run test
+
+
+
+
+
+
+
+### Deployment
+
+You can deploy this project using:
+you can use any service avalaible on internet such as:
+
+Render
+Heroku
+
+I recomend Render since is easy to use
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+## 💻 Getting Started <a name="getting-started"></a>
+
+
+
+To get a local copy up and running, follow these steps.
+
+### Prerequisites
+
+In order to run this project you need :
+Install this:
+Node js
+Visual Studio Code
+Git
+
+
+
+### Setup
+
+Clone this repository to your desired folder:
+and a open a new terminal on your visual studio code
+
+
+  
+
+### Install
+
+Install this project with:
+npm install
+
+
+
+
+
+### Usage
+
+To run the project, execute the following command:
+npm run start
+
+
+
+
+
+
+
+### Run tests
+
+To run tests, run the following command:
+npm run test
+
+
+
+
+
+
+
+### Deployment
+
+You can deploy this project using:
+you can use any service avalaible on internet such as:
+
+Render
+Heroku
+
+I recomend Render since is easy to use
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+## 💻 Getting Started <a name="getting-started"></a>
+
+
+
+To get a local copy up and running, follow these steps.
+
+### Prerequisites
+
+In order to run this project you need :
+Install this:
+Node js
+Visual Studio Code
+Git
+
+
+
+### Setup
+
+Clone this repository to your desired folder:
+and a open a new terminal on your visual studio code
+
+
+  
+
+### Install
+
+Install this project with:
+npm install
+
+
+
+
+
+### Usage
+
+To run the project, execute the following command:
+npm run start
+
+
+
+
+
+
+
+### Run tests
+
+To run tests, run the following command:
+npm run test
+
+
+
+
+
+
+
+### Deployment
+
+You can deploy this project using:
+you can use any service avalaible on internet such as:
+
+Render
+Heroku
+
+I recomend Render since is easy to use
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+## 💻 Getting Started <a name="getting-started"></a>
+
+
+
+To get a local copy up and running, follow these steps.
+
+### Prerequisites
+
+In order to run this project you need :
+Install this:
+Node js
+Visual Studio Code
+Git
+
+
+
+### Setup
+
+Clone this repository to your desired folder:
+and a open a new terminal on your visual studio code
+
+
+  
+
+### Install
+
+Install this project with:
+npm install
+
+
+
+
+
+### Usage
+
+To run the project, execute the following command:
+npm run start
+
+
+
+
+
+
+
+### Run tests
+
+To run tests, run the following command:
+npm run test
+
+
+
+
+
+
+
+### Deployment
+
+You can deploy this project using:
+you can use any service avalaible on internet such as:
+
+Render
+Heroku
+
+I recomend Render since is easy to use
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+## 💻 Getting Started <a name="getting-started"></a>
+
+
+
+To get a local copy up and running, follow these steps.
+
+### Prerequisites
+
+In order to run this project you need :
+Install this:
+Node js
+Visual Studio Code
+Git
+
+
+
+### Setup
+
+Clone this repository to your desired folder:
+and a open a new terminal on your visual studio code
+
+
+  
+
+### Install
+
+Install this project with:
+npm install
+
+
+
+
+
+### Usage
+
+To run the project, execute the following command:
+npm run start
+
+
+
+
+
+
+
+### Run tests
+
+To run tests, run the following command:
+npm run test
+
+
+
+
+
+
+
+### Deployment
+
+You can deploy this project using:
+you can use any service avalaible on internet such as:
+
+Render
+Heroku
+
+I recomend Render since is easy to use
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+## 💻 Getting Started <a name="getting-started"></a>
+
+
+
+To get a local copy up and running, follow these steps.
+
+### Prerequisites
+
+In order to run this project you need :
+Install this:
+Node js
+Visual Studio Code
+Git
+
+
+
+### Setup
+
+Clone this repository to your desired folder:
+and a open a new terminal on your visual studio code
+
+
+  
+
+### Install
+
+Install this project with:
+npm install
+
+
+
+
+
+### Usage
+
+To run the project, execute the following command:
+npm run start
+
+
+
+
+
+
+
+### Run tests
+
+To run tests, run the following command:
+npm run test
+
+
+
+
+
+
+
+### Deployment
+
+You can deploy this project using:
+you can use any service avalaible on internet such as:
+
+Render
+Heroku
+
+I recomend Render since is easy to use
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
