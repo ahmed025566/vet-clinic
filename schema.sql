@@ -70,3 +70,12 @@ CREATE TABLE visits(
             REFERENCES vets(id),
     PRIMARY KEY (aniaml_id, vet_id)
 );
+
+-- creating index for visits table to inahnce quuries for animal_id column time excution:
+CREATE INDEX visits_animal_id_asc ON visits(animal_id ASC);
+
+-- creating index for visits table to inahnce quuries for animal_id column time excution:
+CREATE INDEX visits_vet_id_asc ON visits(vet_id ASC);
+
+-- creating index for owners table to inahnce quuries for email column time excution:
+CREATE INDEX owners_email_asc ON owners(email ASC);
